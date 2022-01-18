@@ -1,6 +1,5 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+Hi! I am Atchayan,
+I am currently learning web development.
+This is my first file created in github.
+If you knew anything about github please comment it out.
+Thank You
